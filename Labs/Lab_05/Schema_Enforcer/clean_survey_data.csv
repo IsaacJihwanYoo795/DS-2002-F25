@@ -1,0 +1,6 @@
+student id,major,GPA,is_cs_major,credits_taken
+10,cs,3.0,True,10.5
+20,math,3.0,False,12.0
+30,history,4.0,False,13.0
+40,science,4.0,False,14.0
+50,english,4.5,False,15.0
