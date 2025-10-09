@@ -1,0 +1,32 @@
+--- Running Test Pipeline (Built-in Test Modes) ---
+Going into Test Mode
+Successful
+Test
+Total Portfolio Value is: $0.00
+Most Valauaable Card is: nan (ID: base1-1), Value: $0.00
+Test complete
+--- Adding New Card Set ---
+Fetching all cards in the set 'base1'
+--- Adding New Card Set ---
+Fetching all cards in the set 'base4'
+--- Starting Portfolio Build Workflow ---
+Do you want to add a NEW card set? (yes/no)
+no
+Do you want to refresh ALL existing card sets? (yes/no)
+yes
+make[1]: Entering directory '/workspaces/DS-2002-F25/Labs/Lab_04/pokemon_lab'
+--- Refreshing All Card Sets ---
+Refreshing all card sets
+Updating base1
+Data has been written to card_set_lookup/base1.json
+Updating base4
+Data has been written to card_set_lookup/base4.json
+All card sets have been refreshed
+make[1]: Leaving directory '/workspaces/DS-2002-F25/Labs/Lab_04/pokemon_lab'
+Starting now
+Running ETL
+Successful
+Reporting Step
+Total Portfolio Value is: $5,649.12
+Most Valauaable Card is: Charizard (ID: base1-4), Value: $457.11
+Done
